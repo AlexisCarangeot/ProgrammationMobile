@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TP2</string>
+    <string name="determinez_votre_poids">Set your weight :</string>
+    <string name="poids">Weight :</string>
+    <string name="determinez_votre_taille">Set your height :</string>
+    <string name="taille">Height :</string>
+    <string name="metre">Meter :</string>
+    <string name="centimetre">Centimeter :</string>
+    <string name="appreciation">Comments</string>
+    <string name="calculer_l_imc">Calculate IMC</string>
+    <string name="reset">Reset</string>
+    <string name="resultat">Result:</string>
+    <string name="obtain_IMC">You should click on \" Calculate IMC \" to obtain your result.</string>
+</resources>
