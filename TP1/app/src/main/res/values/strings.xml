@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProgMobile</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="str_test">Test</string>
+    <string name="bienvenue_dans_l_activit_2">Bienvenue dans l\'activité 2</string>
+</resources>
